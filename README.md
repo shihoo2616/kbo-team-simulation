@@ -165,3 +165,5 @@ kbo-team-simulation/
 
 - 대전동신과학고등학교
 - 3307 최시후
+
+[앱 실행하기](https://kbo-team-simulation-shihoo.streamlit.app)
